@@ -1,0 +1,15 @@
+C:\Users\KAAN\Desktop\Pratikler\Ödev1\Proje4\bin\Debug\net6.0\Proje4.exe
+C:\Users\KAAN\Desktop\Pratikler\Ödev1\Proje4\bin\Debug\net6.0\Proje4.deps.json
+C:\Users\KAAN\Desktop\Pratikler\Ödev1\Proje4\bin\Debug\net6.0\Proje4.runtimeconfig.json
+C:\Users\KAAN\Desktop\Pratikler\Ödev1\Proje4\bin\Debug\net6.0\Proje4.dll
+C:\Users\KAAN\Desktop\Pratikler\Ödev1\Proje4\bin\Debug\net6.0\Proje4.pdb
+C:\Users\KAAN\Desktop\Pratikler\Ödev1\Proje4\obj\Debug\net6.0\Proje4.csproj.AssemblyReference.cache
+C:\Users\KAAN\Desktop\Pratikler\Ödev1\Proje4\obj\Debug\net6.0\Proje4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAAN\Desktop\Pratikler\Ödev1\Proje4\obj\Debug\net6.0\Proje4.AssemblyInfoInputs.cache
+C:\Users\KAAN\Desktop\Pratikler\Ödev1\Proje4\obj\Debug\net6.0\Proje4.AssemblyInfo.cs
+C:\Users\KAAN\Desktop\Pratikler\Ödev1\Proje4\obj\Debug\net6.0\Proje4.csproj.CoreCompileInputs.cache
+C:\Users\KAAN\Desktop\Pratikler\Ödev1\Proje4\obj\Debug\net6.0\Proje4.dll
+C:\Users\KAAN\Desktop\Pratikler\Ödev1\Proje4\obj\Debug\net6.0\refint\Proje4.dll
+C:\Users\KAAN\Desktop\Pratikler\Ödev1\Proje4\obj\Debug\net6.0\Proje4.pdb
+C:\Users\KAAN\Desktop\Pratikler\Ödev1\Proje4\obj\Debug\net6.0\Proje4.genruntimeconfig.cache
+C:\Users\KAAN\Desktop\Pratikler\Ödev1\Proje4\obj\Debug\net6.0\ref\Proje4.dll
